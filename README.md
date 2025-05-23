@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer from Lilongwe, Malawi</h3>
 
 <p align="center">
-  <a href="https://github.com/CodedByNabil"><img src="https://img.shields.io/github/followers/nabil?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/CodeByNabil"><img src="https://img.shields.io/github/followers/nabil?label=Follow&style=social" alt="GitHub Followers"></a>
   <a href="mailto:itadorihiro@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/nabil"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
 </p>
@@ -52,9 +52,9 @@ I'm a passionate developer currently studying and building projects that bridge 
 ### **Stats & Activity**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodedByNabil&show_icons=true&theme=tokyonight" alt="Nabil's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByNabil&show_icons=true&theme=tokyonight" alt="Nabil's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodedByNabil&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByNabil&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
